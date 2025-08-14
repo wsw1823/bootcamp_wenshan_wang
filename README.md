@@ -12,3 +12,7 @@ GitHub.
 - Keep project files organized and clearly named.
 
 mv /path/to/python_tutorial.ipynb homework/homework0/
+
+git add .
+git commit -m "Initial repo setup with homework0 notebook"
+git push origin main
