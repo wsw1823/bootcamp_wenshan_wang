@@ -10,3 +10,5 @@ GitHub.
 - Include all required files for grading.
 ## Project Folder Rules
 - Keep project files organized and clearly named.
+
+mv /path/to/python_tutorial.ipynb homework/homework0/
