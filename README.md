@@ -1,9 +1,12 @@
-# bootcamp_wenshan_wang
-git clone https://github.com/wsw1823/bootcamp_wenshan_wang.git
-cd bootcamp_wenshan_wang
-mkdir homework
-mkdir project
-mkdir class_materials
-mkdir homework
-cd homework
-mkdir homework/homework0
+# Bootcamp Repository
+## Folder Structure
+- **homework/** → All homework contributions will be submitted here.
+- **project/** → All project contributions will be submitted here.
+- **class_materials/** → Local storage for class materials. Never pushed to
+GitHub.
+
+## Homework Folder Rules
+- Each homework will be in its own subfolder (`homework0`, `homework1`, etc.)
+- Include all required files for grading.
+## Project Folder Rules
+- Keep project files organized and clearly named.
